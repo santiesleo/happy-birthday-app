@@ -13,7 +13,7 @@ const geistMono = Geist_Mono({
 });
 
 export const metadata: Metadata = {
-  title: "🎉 ¡Feliz cumpleaños! 🎂",
+  title: "Feliz cumpleaños! 🎉",
   description: "Una página especial de cumpleaños llena de amor y recuerdos bonitos",
 };
 
